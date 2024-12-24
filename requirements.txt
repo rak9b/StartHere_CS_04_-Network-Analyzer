@@ -1,0 +1,5 @@
+# Testing Framework
+pytest==7.4.0  
+
+# Packet Processing Library
+scapy==2.5.0
